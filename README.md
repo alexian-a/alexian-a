@@ -14,7 +14,7 @@ I’m a third-year BUT Computer Science student at [IUT de Blagnac](https://www.
 [![FW](https://skillicons.dev/icons?i=react,vue,angular,tailwind,nodejs,nextjs,symfony&perline=7)](https://skillicons.dev)
 
 **Databases**  
-[![DB](https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=6)](https://skillicons.dev)  
+[![DB](https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=6)](https://skillicons.dev)  *Also Neo4J and Oracle*
 
 **DevOps & Tools**  
 [![Tools](https://skillicons.dev/icons?i=docker,nginx,git,github,vscode,idea&perline=9)](https://skillicons.dev)
